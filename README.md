@@ -8,7 +8,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [友情链接](https://github.com/Eloco/gitblog/issues/2)--2022-06-02
 - [个人自动化项目](https://github.com/Eloco/gitblog/issues/1)--2022-06-02
 ## TODO
-TODO list from [个人自动化项目](https://github.com/Eloco/gitblog/issues/1)--6 jobs to do--5 jobs done
+TODO list from [个人自动化项目](https://github.com/Eloco/gitblog/issues/1)--7 jobs to do--5 jobs done
 - [x] normal-todo
 - [x] note and knowledge
 - [x] 运动记录
@@ -20,4 +20,5 @@ TODO list from [个人自动化项目](https://github.com/Eloco/gitblog/issues/1
 - [ ] download cloud
 - [ ] storage cloud
 - [ ] pdf convert cloud
+- [ ] 行情信息自动化
 
