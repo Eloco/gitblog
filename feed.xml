@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/Eloco/gitblog</id><title>RSS feed of Eloco's gitblog</title><updated>2022-06-02T23:57:44.145376+00:00</updated><author><name>eloco</name><email>elogicocal@gmail.com</email></author><link href="https://github.com/Eloco/gitblog"/><link href="https://raw.githubusercontent.com/Eloco/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/Eloco/gitblog/issues/2</id><title>友情链接</title><updated>2022-06-02T23:57:44.289748+00:00</updated><content type="html"><![CDATA[<pre><code>名字：xxx
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/Eloco/gitblog</id><title>RSS feed of Eloco's gitblog</title><updated>2022-06-04T05:13:14.804800+00:00</updated><author><name>eloco</name><email>elogicocal@gmail.com</email></author><link href="https://github.com/Eloco/gitblog"/><link href="https://raw.githubusercontent.com/Eloco/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/Eloco/gitblog/issues/2</id><title>友情链接</title><updated>2022-06-04T05:13:14.940539+00:00</updated><content type="html"><![CDATA[<pre><code>名字：xxx
 链接：xxx
 描述：xxx
 </code></pre>
-]]></content><link href="https://github.com/Eloco/gitblog/issues/2" rel="alternate"/><category term="good first issue"/><category term="Friends"/><published>2022-06-02T12:55:13+00:00</published></entry><entry><id>https://github.com/Eloco/gitblog/issues/1</id><title>个人自动化</title><updated>2022-06-02T23:57:44.367769+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/Eloco/gitblog/issues/2" rel="alternate"/><category term="good first issue"/><category term="Friends"/><published>2022-06-02T12:55:13+00:00</published></entry><entry><id>https://github.com/Eloco/gitblog/issues/1</id><title>个人自动化</title><updated>2022-06-04T05:13:15.010903+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input disabled="" type="checkbox"> mongo-todo</li>
 <li><input checked="" disabled="" type="checkbox"> normal-todo</li>
 <li><input checked="" disabled="" type="checkbox"> note and knowledge</li>
@@ -13,7 +13,7 @@
 <li><input disabled="" type="checkbox"> TTL等ML技术</li>
 <li><input checked="" disabled="" type="checkbox"> most cloud service</li>
 <li><input disabled="" type="checkbox"> download cloud</li>
-<li><input disabled="" type="checkbox"> storage cloud</li>
+<li><input checked="" disabled="" type="checkbox"> storage cloud</li>
 <li><input disabled="" type="checkbox"> pdf convert cloud</li>
 <li><input disabled="" type="checkbox"> 行情信息自动化</li>
 <li><input disabled="" type="checkbox"> 视频自动化处理</li>
