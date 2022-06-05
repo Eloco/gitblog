@@ -18,8 +18,8 @@ TODO list from [watch](https://github.com/Eloco/gitblog/issues/4)--4 jobs to do-
 - [ ] gitnoter support lang
 - [ ] https://macos-web.app/
 
-TODO list from [Deploy](https://github.com/Eloco/gitblog/issues/3)--4 jobs to do--0 jobs done
-- [ ] n8n
+TODO list from [Deploy](https://github.com/Eloco/gitblog/issues/3)--3 jobs to do--1 jobs done
+- [x] n8n
 - [ ] playground
 - [ ] kali-shellinbox
 - [ ] nmap-online
