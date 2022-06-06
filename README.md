@@ -33,7 +33,7 @@ TODO list from [self-hosted](https://github.com/Eloco/gitblog/issues/1)--6 jobs 
 - [x] download cloud
 - [x] storage cloud
 - [ ] mongo-todo
-- [ ] IOS快捷早起，早睡，单词，备忘录记录？
+- [ ] IOS快捷 curl触发action
 - [ ] TTL等ML技术
 - [ ] pdf convert cloud
 - [ ] 行情信息自动化
