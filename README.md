@@ -18,10 +18,11 @@ TODO list from [Watch](https://github.com/Eloco/gitblog/issues/4)--4 jobs to do-
 - [ ] gitnoter support lang
 - [ ] https://macos-web.app/
 
-TODO list from [Deploy](https://github.com/Eloco/gitblog/issues/3)--4 jobs to do--2 jobs done
+TODO list from [Deploy](https://github.com/Eloco/gitblog/issues/3)--5 jobs to do--2 jobs done
 - [x] n8n
 - [x] frp
 - [ ] wireguard
+- [ ] https://github.com/Lissy93/dashy (octoprint,nextcloud等)
 - [ ] playground
 - [ ] kali-shellinbox
 - [ ] nmap-online
