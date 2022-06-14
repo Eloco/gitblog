@@ -18,14 +18,14 @@ TODO list from [Watch](https://github.com/Eloco/gitblog/issues/4)--4 jobs to do-
 - [ ] gitnoter support lang
 - [ ] https://macos-web.app/
 
-TODO list from [Deploy](https://github.com/Eloco/gitblog/issues/3)--3 jobs to do--5 jobs done
+TODO list from [Deploy](https://github.com/Eloco/gitblog/issues/3)--2 jobs to do--6 jobs done
 - [x] n8n
 - [x] dns
 - [x] wireguard
 - [x] frp
 - [x] ssh-vps
+- [x] playground
 - [ ] https://github.com/Lissy93/dashy (octoprint,nextcloud等)
-- [ ] playground
 - [ ] nmap-online
 
 TODO list from [Self-hosted](https://github.com/Eloco/gitblog/issues/1)--6 jobs to do--7 jobs done
