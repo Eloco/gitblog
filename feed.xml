@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/Eloco/gitblog</id><title>RSS feed of Eloco's gitblog</title><updated>2022-06-14T10:34:43.758047+00:00</updated><author><name>eloco</name><email>elogicocal@gmail.com</email></author><link href="https://github.com/Eloco/gitblog"/><link href="https://raw.githubusercontent.com/Eloco/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/Eloco/gitblog/issues/4</id><title>Watch</title><updated>2022-06-14T10:34:43.905862+00:00</updated><content type="html"><![CDATA[<ul>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/Eloco/gitblog</id><title>RSS feed of Eloco's gitblog</title><updated>2022-06-15T02:53:46.372092+00:00</updated><author><name>eloco</name><email>elogicocal@gmail.com</email></author><link href="https://github.com/Eloco/gitblog"/><link href="https://raw.githubusercontent.com/Eloco/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/Eloco/gitblog/issues/4</id><title>Watch</title><updated>2022-06-15T02:53:46.539257+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input disabled="" type="checkbox"> <a href="https://www.warp.dev/">https://www.warp.dev/</a></li>
 <li><input disabled="" type="checkbox"> oneforall web</li>
 <li><input disabled="" type="checkbox"> gitnoter support lang</li>
 <li><input disabled="" type="checkbox"> <a href="https://macos-web.app/">https://macos-web.app/</a></li>
 </ul>
-]]></content><link href="https://github.com/Eloco/gitblog/issues/4" rel="alternate"/><category term="TODO"/><published>2022-06-05T03:53:36+00:00</published></entry><entry><id>https://github.com/Eloco/gitblog/issues/3</id><title>Deploy</title><updated>2022-06-14T10:34:43.982208+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/Eloco/gitblog/issues/4" rel="alternate"/><category term="TODO"/><published>2022-06-05T03:53:36+00:00</published></entry><entry><id>https://github.com/Eloco/gitblog/issues/3</id><title>Deploy</title><updated>2022-06-15T02:53:46.617261+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> n8n</li>
 <li><input checked="" disabled="" type="checkbox"> dns</li>
-<li><input checked="" disabled="" type="checkbox"> wireguard</li>
+<li><input checked="" disabled="" type="checkbox"> wireguard  (n2n instead)</li>
 <li><input checked="" disabled="" type="checkbox"> frp</li>
 <li><input checked="" disabled="" type="checkbox"> ssh-vps</li>
 <li><input disabled="" type="checkbox"> <a href="https://github.com/Lissy93/dashy">https://github.com/Lissy93/dashy</a> (octoprint,nextcloud等)</li>
 <li><input checked="" disabled="" type="checkbox"> playground</li>
 <li><input disabled="" type="checkbox"> nmap-online</li>
 </ul>
-]]></content><link href="https://github.com/Eloco/gitblog/issues/3" rel="alternate"/><category term="TODO"/><published>2022-06-05T03:31:41+00:00</published></entry><entry><id>https://github.com/Eloco/gitblog/issues/2</id><title>友情链接</title><updated>2022-06-14T10:34:44.051789+00:00</updated><content type="html"><![CDATA[<pre><code>名字：xxx
+]]></content><link href="https://github.com/Eloco/gitblog/issues/3" rel="alternate"/><category term="TODO"/><published>2022-06-05T03:31:41+00:00</published></entry><entry><id>https://github.com/Eloco/gitblog/issues/2</id><title>友情链接</title><updated>2022-06-15T02:53:46.694190+00:00</updated><content type="html"><![CDATA[<pre><code>名字：xxx
 链接：xxx
 描述：xxx
 </code></pre>
-]]></content><link href="https://github.com/Eloco/gitblog/issues/2" rel="alternate"/><category term="good first issue"/><category term="Friends"/><published>2022-06-02T12:55:13+00:00</published></entry><entry><id>https://github.com/Eloco/gitblog/issues/1</id><title>Self-hosted</title><updated>2022-06-14T10:34:44.127023+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/Eloco/gitblog/issues/2" rel="alternate"/><category term="good first issue"/><category term="Friends"/><published>2022-06-02T12:55:13+00:00</published></entry><entry><id>https://github.com/Eloco/gitblog/issues/1</id><title>Self-hosted</title><updated>2022-06-15T02:53:46.766113+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input disabled="" type="checkbox"> mongo-todo</li>
 <li><input checked="" disabled="" type="checkbox"> normal-todo</li>
 <li><input checked="" disabled="" type="checkbox"> note and knowledge</li>

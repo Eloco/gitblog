@@ -21,7 +21,7 @@ TODO list from [Watch](https://github.com/Eloco/gitblog/issues/4)--4 jobs to do-
 TODO list from [Deploy](https://github.com/Eloco/gitblog/issues/3)--2 jobs to do--6 jobs done
 - [x] n8n
 - [x] dns
-- [x] wireguard
+- [x] wireguard  (n2n instead)
 - [x] frp
 - [x] ssh-vps
 - [x] playground
